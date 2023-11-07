@@ -1,0 +1,7 @@
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.csproj.AssemblyReference.cache
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.AssemblyInfoInputs.cache
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.AssemblyInfo.cs
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.csproj.CoreCompileInputs.cache
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/sgeltid/src/obj/Debug/net7.0/sgeltid.MvcApplicationPartsAssemblyInfo.cache
